@@ -1,0 +1,21 @@
+{
+  "name": "trivia-cli",
+  "version": "1.0.0",
+  "description": "A CLI-based trivia game",
+  "main": "trivia.js",
+  "scripts": {
+    "start": "node trivia.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "trivia",
+    "cli",
+    "quiz",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
